@@ -1,1 +1,2 @@
 # goLoL
+curl "https://api.lolesports.com/api/v1/navItems" -H "Host: api.lolesports.com" -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0" -H "Accept: application/json, text/javascript, */*; q=0.01" -H "Accept-Language: fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3" --compressed -H "Referer: https://www.lolesports.com/en_US/" -H "Origin: https://www.lolesports.com" -H "Connection: keep-alive" -H "Pragma: no-cache" -H "Cache-Control: no-cache"
